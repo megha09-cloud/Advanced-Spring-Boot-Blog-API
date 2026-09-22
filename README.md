@@ -252,16 +252,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## Contact 📞
 
-For inquiries or support, please contact:
-[krichenyassine22@gmail.com](mailto:krichenyassine22@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/krichenyassine/)
-
----
-
-Enjoy using the **Spring Boot Real-Time API** and happy coding! 🎉
-
----
-
-Made with ❤️ by [Yassine Krichen](https://github.com/Yassinekrn)
